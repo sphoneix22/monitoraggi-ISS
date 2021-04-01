@@ -1,0 +1,22 @@
+numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali,trend_casi,trend_focolai,rt_puntuale,rt_range_inizio,rt_range_fine,trasmissione_non_gestibile,valutazione_probabilità,valutazione_impatto,compatibilità_rt,classificazione_rischio,classificazione_alta_tre_settimane
+45,2021/3/15,2021/3/21,2021/3/24,Abruzzo,2192,-,+,0.87,0.84,0.9,f,bassa,alta,1,moderata,f 
+45,2021/3/15,2021/3/21,2021/3/24,Basilicata,857,-,-,0.95,0.8,1.11,f,bassa,bassa,1,bassa,f
+45,2021/3/15,2021/3/21,2021/3/24,Calabria,2201,+,+,1.37,1.25,1.51,f,moderata,bassa,3,moderata ad alta probabilità di progressione,f
+45,2021/3/15,2021/3/21,2021/3/24,Campania,13663,-,-,1.05,1,1.09,f,bassa,bassa,2,bassa ad alta probabilità di progressione,f
+45,2021/3/15,2021/3/21,2021/3/24,Emilia-Romagna,14996,-,-,0.98,0.97,1,f,bassa,alta,1,moderata ad alta probabilità di progressione,f
+45,2021/3/15,2021/3/21,2021/3/24,Friulia Venezia Giulia,3835,-,+,1.23,1.2,1.28,f,moderata,alta,2,alta,t
+45,2021/3/15,2021/3/21,2021/3/24,Lazio,11796,-,+,0.99,0.97,1.02,f,moderata,alta,1,alta,t
+45,2021/3/15,2021/3/21,2021/3/24,Liguria,2550,+,+,1,0.94,1.05,f,moderata,bassa,1,moderata ad alta probabilità di progressione,f
+45,2021/3/15,2021/3/21,2021/3/24,Lombardia,30262,-,=,1.08,1.07,1.09,f,bassa,alta,2,moderata ad alta probabilità di progressione,f
+45,2021/3/15,2021/3/21,2021/3/24,Marche,4284,-,-,1.15,1.08,1.23,f,bassa,alta,2,moderata ad alta probabilità di progressione,f
+45,2021/3/15,2021/3/21,2021/3/24,Molise,346,-,-,1.17,0.88,1.52,f,bassa,moderata,1,moderata ad alta probabilità di progressione,f
+45,2021/3/15,2021/3/21,2021/3/24,Piemonte,14830,+,+,1.17,1.15,1.19,f,moderata,alta,2,alta,t
+45,2021/3/15,2021/3/21,2021/3/24,Provincia Autonoma Bolzano / Bozen,794,-,+,0.78,0.72,0.85,f,moderata,alta,2,alta,t
+45,2021/3/15,2021/3/21,2021/3/24,Provincia Autonoma Trento,1608,-,-,1.02,0.96,1.07,f,bassa,moderata,1,moderata ad alta probabilità di progressione,f
+45,2021/3/15,2021/3/21,2021/3/24,Puglia,10643,+,+,1.17,1.14,1.19,f,moderata,alta,2,alta,t
+45,2021/3/15,2021/3/21,2021/3/24,Sardegna,794,+,+,1.03,0.92,1.14,f,moderata,bassa,1,moderata,f
+45,2021/3/15,2021/3/21,2021/3/24,Sicilia,5072,+,+,0.99,0.95,1.04,f,moderata,bassa,1,moderata,f
+45,2021/3/15,2021/3/21,2021/3/24,Toscana,8776,+,-,1.1,1.07,1.13,f,moderata,alta,2,alta,t
+45,2021/3/15,2021/3/21,2021/3/24,Umbria,1256,-,-,0.97,0.92,1.03,f,bassa,alta,1,moderata ad alta probabilità di progressione,f
+45,2021/3/15,2021/3/21,2021/3/24,Valle d'Aosta,296,+,+,1.75,1.5,2.03,f,moderata,bassa,4,moderata ad alta probabilità di progressione,f
+45,2021/3/15,2021/3/21,2021/3/24,Veneto,12279,+,+,1.23,1.2,1.26,f,moderata,bassa,2,moderata ad alta probabilità di progressione,f
