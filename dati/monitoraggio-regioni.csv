@@ -11,8 +11,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 0,2020/5/4,2020/5/10,2020/5/16,Marche,,-,,0.55,0.33,0.88,,bassa,livello 2,,,
 0,2020/5/4,2020/5/10,2020/5/16,Molise,,+,,0.34,0..08,0.72,,moderata,livello 3,,,
 0,2020/5/4,2020/5/10,2020/5/16,Piemonte,,-,,0.58,0.52,0.64,,bassa,livello 2,,,
-0,2020/5/4,2020/5/10,2020/5/16,Provincia Autonoma Bolzano / Bozen,,-,,0.56,0.34,0.84,,bassa,livello 2,,,
-0,2020/5/4,2020/5/10,2020/5/16,Provincia Autonoma Trento,,+,,0.75,0.51,1.03,,bassa,livello 2,,,
+0,2020/5/4,2020/5/10,2020/5/16,P.A. Bolzano,,-,,0.56,0.34,0.84,,bassa,livello 2,,,
+0,2020/5/4,2020/5/10,2020/5/16,P.A. Trento,,+,,0.75,0.51,1.03,,bassa,livello 2,,,
 0,2020/5/4,2020/5/10,2020/5/16,Puglia,,-,,0.72,0.53,0.95,,bassa,livello 2,,,
 0,2020/5/4,2020/5/10,2020/5/16,Sardegna,,-,,0.24,0.1,0.47,,bassa,livello 2,,,
 0,2020/5/4,2020/5/10,2020/5/16,Sicilia,,-,,0.54,0.32,0.84,,bassa,livello 2,,,
@@ -32,8 +32,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 1,2020/5/11,2020/5/17,2020/5/21,Marche,,-,,0.48,0.3,0.72,,bassa,livello 2,,,
 1,2020/5/11,2020/5/17,2020/5/21,Molise,,-,,0.51,0.18,0.92,,bassa,livello 2,,,
 1,2020/5/11,2020/5/17,2020/5/21,Piemonte,,-,,0.39,0.33,0.44,,bassa,livello 2,,,
-1,2020/5/11,2020/5/17,2020/5/21,Provincia Autonoma Bolzano / Bozen,,-,,0.45,0.2,0.76,,bassa,livello 2,,,
-1,2020/5/11,2020/5/17,2020/5/21,Provincia Autonoma Trento,,-,,0.77,0.49,1.09,,bassa,livello 2,,,
+1,2020/5/11,2020/5/17,2020/5/21,P.A. Bolzano,,-,,0.45,0.2,0.76,,bassa,livello 2,,,
+1,2020/5/11,2020/5/17,2020/5/21,P.A. Trento,,-,,0.77,0.49,1.09,,bassa,livello 2,,,
 1,2020/5/11,2020/5/17,2020/5/21,Puglia,,-,,0.56,0.39,0.75,,bassa,livello 2,,,
 1,2020/5/11,2020/5/17,2020/5/21,Sardegna,,-,,0.27,0.06,0.61,,bassa,livello 2,,,
 1,2020/5/11,2020/5/17,2020/5/21,Sicilia,,-,,0.69,0.37,1.08,,bassa,livello 2,,,
@@ -53,8 +53,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 2,2020/5/18,2020/5/24,2020/5/26,Marche,46,,,0.55,0.35,0.82,,,,,,
 2,2020/5/18,2020/5/24,2020/5/26,Molise,8,,,2.2,1.5,3.33,,,,,,
 2,2020/5/18,2020/5/24,2020/5/26,Piemonte,543,,,0.5,0.46,0.55,,,,,,
-2,2020/5/18,2020/5/24,2020/5/26,Provincia Autonoma Bolzano / Bozen,8,,,0.57,0.37,0.83,,,,,,
-2,2020/5/18,2020/5/24,2020/5/26,Provincia Autonoma Trento,68,,,0.88,0.68,1.09,,,,,,
+2,2020/5/18,2020/5/24,2020/5/26,P.A. Bolzano,8,,,0.57,0.37,0.83,,,,,,
+2,2020/5/18,2020/5/24,2020/5/26,P.A. Trento,68,,,0.88,0.68,1.09,,,,,,
 2,2020/5/18,2020/5/24,2020/5/26,Puglia,76,,,0.62,0.45,0.82,,,,,,
 2,2020/5/18,2020/5/24,2020/5/26,Sardegna,6,,,0.51,0.22,0.82,,,,,,
 2,2020/5/18,2020/5/24,2020/5/26,Sicilia,22,,,0.75,0.44,1.19,,,,,,
@@ -74,8 +74,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 3,2020/5/25,2020/5/25,2020/6/3,Marche,15,,,0.86,0.29,1.79,,,,,,
 3,2020/5/25,2020/5/25,2020/6/3,Molise,4,,,0.59,0,2.14,,,,,,
 3,2020/5/25,2020/5/25,2020/6/3,Piemonte,399,,,0.58,0.44,0.71,,,,,,
-3,2020/5/25,2020/5/25,2020/6/3,Provincia Autonoma Bolzano / Bozen,5,,,0.86,0.17,2.05,,,,,,
-3,2020/5/25,2020/5/25,2020/6/3,Provincia Autonoma Trento,34,,,0.86,0.55,1.22,,,,,,
+3,2020/5/25,2020/5/25,2020/6/3,P.A. Bolzano,5,,,0.86,0.17,2.05,,,,,,
+3,2020/5/25,2020/5/25,2020/6/3,P.A. Trento,34,,,0.86,0.55,1.22,,,,,,
 3,2020/5/25,2020/5/25,2020/6/3,Puglia,35,,,0.78,0.32,1.79,,,,,,
 3,2020/5/25,2020/5/25,2020/6/3,Sardegna,3,,,0.14,0,0.47,,,,,,
 3,2020/5/25,2020/5/25,2020/6/3,Sicilia,29,,,0.55,0.07,1.46,,,,,,
@@ -95,8 +95,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 4,2020/6/1,2020/6/7,2020/6/9,Marche,16,,,0.76,0.22,1.49,,,,,,
 4,2020/6/1,2020/6/7,2020/6/9,Molise,2,,,0.48,0.13,0.98,,,,,,
 4,2020/6/1,2020/6/7,2020/6/9,Piemonte,176,,,0.54,0.36,0.71,,,,,,
-4,2020/6/1,2020/6/7,2020/6/9,Provincia Autonoma Bolzano / Bozen,5,,,0.84,0.03,1.99,,,,,,
-4,2020/6/1,2020/6/7,2020/6/9,Provincia Autonoma Trento,9,,,0.65,0.16,1.19,,,,,,
+4,2020/6/1,2020/6/7,2020/6/9,P.A. Bolzano,5,,,0.84,0.03,1.99,,,,,,
+4,2020/6/1,2020/6/7,2020/6/9,P.A. Trento,9,,,0.65,0.16,1.19,,,,,,
 4,2020/6/1,2020/6/7,2020/6/9,Puglia,17,,,0.94,0.34,1.84,,,,,,
 4,2020/6/1,2020/6/7,2020/6/9,Sardegna,4,,,0.1,0,0.4,,,,,,
 4,2020/6/1,2020/6/7,2020/6/9,Sicilia,13,,,0.59,0.19,1.26,,,,,,
@@ -116,8 +116,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 5,2020/6/8,2020/6/14,2020/6/16,Marche,10,,,0.59,0.24,1.03,,,,,,
 5,2020/6/8,2020/6/14,2020/6/16,Molise,1,,,0.35,0,0.93,,,,,,
 5,2020/6/8,2020/6/14,2020/6/16,Piemonte,167,,,0.56,0.38,0.97,,,,,,
-5,2020/6/8,2020/6/14,2020/6/16,Provincia Autonoma Bolzano / Bozen,9,,,0.21,0,0.76,,,,,,
-5,2020/6/8,2020/6/14,2020/6/16,Provincia Autonoma Trento,11,,,0.32,0.01,0.93,,,,,,
+5,2020/6/8,2020/6/14,2020/6/16,P.A. Bolzano,9,,,0.21,0,0.76,,,,,,
+5,2020/6/8,2020/6/14,2020/6/16,P.A. Trento,11,,,0.32,0.01,0.93,,,,,,
 5,2020/6/8,2020/6/14,2020/6/16,Puglia,4,,,0.62,0,1.74,,,,,,
 5,2020/6/8,2020/6/14,2020/6/16,Sardegna,3,,,0.03,0,0.4,,,,,,
 5,2020/6/8,2020/6/14,2020/6/16,Sicilia,10,,,0.72,0.15,1.57,,,,,,
@@ -137,8 +137,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 6,2020/6/15,2020/6/21,2020/6/23,Marche,11,,,0.86,0.24,1.59,,,,,,
 6,2020/6/15,2020/6/21,2020/6/23,Molise,5,,,0.09,0,0.59,,,,,,
 6,2020/6/15,2020/6/21,2020/6/23,Piemonte,163,,,0.69,0.45,1.1,,,,,,
-6,2020/6/15,2020/6/21,2020/6/23,Provincia Autonoma Bolzano / Bozen,19,,,0.4,0,1.16,,,,,,
-6,2020/6/15,2020/6/21,2020/6/23,Provincia Autonoma Trento,16,,,0.13,0,0.41,,,,,,
+6,2020/6/15,2020/6/21,2020/6/23,P.A. Bolzano,19,,,0.4,0,1.16,,,,,,
+6,2020/6/15,2020/6/21,2020/6/23,P.A. Trento,16,,,0.13,0,0.41,,,,,,
 6,2020/6/15,2020/6/21,2020/6/23,Puglia,9,,,0.36,0,1.48,,,,,,
 6,2020/6/15,2020/6/21,2020/6/23,Sardegna,4,,,0.27,0,1.08,,,,,,
 6,2020/6/15,2020/6/21,2020/6/23,Sicilia,11,,,0.83,0.17,2.11,,,,,,
@@ -158,8 +158,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 7,2020/6/22,2020/6/28,2020/6/30,Marche,5,,,0.81,0.1,1.96,,,,,,
 7,2020/6/22,2020/6/28,2020/6/30,Molise,1,,,0.16,0,0.67,,,,,,
 7,2020/6/22,2020/6/28,2020/6/30,Piemonte,88,,,0.81,0.48,1.3,,,,,,
-7,2020/6/22,2020/6/28,2020/6/30,Provincia Autonoma Bolzano / Bozen,6,,,0.58,0.03,1.4,,,,,,
-7,2020/6/22,2020/6/28,2020/6/30,Provincia Autonoma Trento,10,,,0.26,0,0.96,,,,,,
+7,2020/6/22,2020/6/28,2020/6/30,P.A. Bolzano,6,,,0.58,0.03,1.4,,,,,,
+7,2020/6/22,2020/6/28,2020/6/30,P.A. Trento,10,,,0.26,0,0.96,,,,,,
 7,2020/6/22,2020/6/28,2020/6/30,Puglia,4,,,0.67,0.05,1.5,,,,,,
 7,2020/6/22,2020/6/28,2020/6/30,Sardegna,4,,,0.26,0,0.98,,,,,,
 7,2020/6/22,2020/6/28,2020/6/30,Sicilia,11,,,0.14,0,0.69,,,,,,
@@ -179,8 +179,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 8,2020/6/29,2020/7/5,2020/7/7,Marche,5,,,0.87,0.07,1.79,,,,,,
 8,2020/6/29,2020/7/5,2020/7/7,Molise,0,,,0.21,0,0.67,,,,,,
 8,2020/6/29,2020/7/5,2020/7/7,Piemonte,85,,,1.06,0.56,1.97,,,,,,
-8,2020/6/29,2020/7/5,2020/7/7,Provincia Autonoma Bolzano / Bozen,7,,,0.33,0.02,0.86,,,,,,
-8,2020/6/29,2020/7/5,2020/7/7,Provincia Autonoma Trento,11,,,0.51,0.03,1.04,,,,,,
+8,2020/6/29,2020/7/5,2020/7/7,P.A. Bolzano,7,,,0.33,0.02,0.86,,,,,,
+8,2020/6/29,2020/7/5,2020/7/7,P.A. Trento,11,,,0.51,0.03,1.04,,,,,,
 8,2020/6/29,2020/7/5,2020/7/7,Puglia,6,,,0.54,0,1.92,,,,,,
 8,2020/6/29,2020/7/5,2020/7/7,Sardegna,7,,,0.19,0,0.54,,,,,,
 8,2020/6/29,2020/7/5,2020/7/7,Sicilia,26,,,0.24,0,0.91,,,,,,
@@ -200,8 +200,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 9,2020/7/6,2020/7/12,2020/7/14,Marche,,,,,,,,,,,,
 9,2020/7/6,2020/7/12,2020/7/14,Molise,1,,,0.05,0,0.56,,,,,,
 9,2020/7/6,2020/7/12,2020/7/14,Piemonte,69,,,1.06,0.36,1.79,,,,,,
-9,2020/7/6,2020/7/12,2020/7/14,Provincia Autonoma Bolzano / Bozen,27,,,0.14,"0 ",0.61,,,,,,
-9,2020/7/6,2020/7/12,2020/7/14,Provincia Autonoma Trento,6,,,0.25,0,0.98,,,,,,
+9,2020/7/6,2020/7/12,2020/7/14,P.A. Bolzano,27,,,0.14,"0 ",0.61,,,,,,
+9,2020/7/6,2020/7/12,2020/7/14,P.A. Trento,6,,,0.25,0,0.98,,,,,,
 9,2020/7/6,2020/7/12,2020/7/14,Puglia,6,,,0.07,0,0.54,,,,,,
 9,2020/7/6,2020/7/12,2020/7/14,Sardegna,2,,,0.32,0.03,1.11,,,,,,
 9,2020/7/6,2020/7/12,2020/7/14,Sicilia,10,,,0.43,0.02,1.36,,,,,,
@@ -221,8 +221,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 10,2020/7/13,2020/7/19,2020/7/21,Marche,9,,,0.62,0.11,1.66,,,,,,
 10,2020/7/13,2020/7/19,2020/7/21,Molise,0,,,0,0,0,,,,,,
 10,2020/7/13,2020/7/19,2020/7/21,Piemonte,35,,,1.07,0.39,2.03,,,,,,
-10,2020/7/13,2020/7/19,2020/7/21,Provincia Autonoma Bolzano / Bozen,11,,,0.57,0,2.52,,,,,,
-10,2020/7/13,2020/7/19,2020/7/21,Provincia Autonoma Trento,9,,,0.38,0,1.82,,,,,,
+10,2020/7/13,2020/7/19,2020/7/21,P.A. Bolzano,11,,,0.57,0,2.52,,,,,,
+10,2020/7/13,2020/7/19,2020/7/21,P.A. Trento,9,,,0.38,0,1.82,,,,,,
 10,2020/7/13,2020/7/19,2020/7/21,Puglia,16,,,0,0,0,,,,,,
 10,2020/7/13,2020/7/19,2020/7/21,Sardegna,6,,,0.32,0,1.3,,,,,,
 10,2020/7/13,2020/7/19,2020/7/21,Sicilia,43,,,0.88,0.04,2.27,,,,,,
@@ -242,8 +242,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 11,2020/7/20,2020/7/26,2020/7/28,Marche,14,,,0.87,0.14,2.2,,,,,,
 11,2020/7/20,2020/7/26,2020/7/28,Molise,23,,,0,0,0,,,,,,
 11,2020/7/20,2020/7/26,2020/7/28,Piemonte,73,,,0.87,0.27,1.86,,,,,,
-11,2020/7/20,2020/7/26,2020/7/28,Provincia Autonoma Bolzano / Bozen,18,,,1.07,0.02,2.72,,,,,,
-11,2020/7/20,2020/7/26,2020/7/28,Provincia Autonoma Trento,76,,,1.34,0,3.4,,,,,,
+11,2020/7/20,2020/7/26,2020/7/28,P.A. Bolzano,18,,,1.07,0.02,2.72,,,,,,
+11,2020/7/20,2020/7/26,2020/7/28,P.A. Trento,76,,,1.34,0,3.4,,,,,,
 11,2020/7/20,2020/7/26,2020/7/28,Puglia,36,,,0.37,0,2.22,,,,,,
 11,2020/7/20,2020/7/26,2020/7/28,Sardegna,8,,,0.08,0,0.41,,,,,,
 11,2020/7/20,2020/7/26,2020/7/28,Sicilia,55,,,1.55,0.33,2.91,,,,,,
@@ -263,8 +263,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 12,2020/7/27,2020/8/2,2020/8/4,Marche,63,,,1.13,0.03,2.58,,,,,,
 12,2020/7/27,2020/8/2,2020/8/4,Molise,8,,,0,0,0,,,,,,
 12,2020/7/27,2020/8/2,2020/8/4,Piemonte,91,,,0.87,0.36,1.82,,,,,,
-12,2020/7/27,2020/8/2,2020/8/4,Provincia Autonoma Bolzano / Bozen,47,,,1.43,0.24,3.03,,,,,,
-12,2020/7/27,2020/8/2,2020/8/4,Provincia Autonoma Trento,15,,,1.28,0.22,2.81,,,,,,
+12,2020/7/27,2020/8/2,2020/8/4,P.A. Bolzano,47,,,1.43,0.24,3.03,,,,,,
+12,2020/7/27,2020/8/2,2020/8/4,P.A. Trento,15,,,1.28,0.22,2.81,,,,,,
 12,2020/7/27,2020/8/2,2020/8/4,Puglia,56,,,1.1,0,2.64,,,,,,
 12,2020/7/27,2020/8/2,2020/8/4,Sardegna,29,,,0.12,0,0.67,,,,,,
 12,2020/7/27,2020/8/2,2020/8/4,Sicilia,105,,,1.62,0.86,2.61,,,,,,
@@ -284,8 +284,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 13,2020/8/3,2020/8/9,2020/8/11,Marche,56,,,1.02,0.24,2.71,,,,,,
 13,2020/8/3,2020/8/9,2020/8/11,Molise,1,,,0,0,0,,,,,,
 13,2020/8/3,2020/8/9,2020/8/11,Piemonte,181,,,1.04,0.44,1.88,,,,,,
-13,2020/8/3,2020/8/9,2020/8/11,Provincia Autonoma Bolzano / Bozen,38,,,0.97,0.09,2.33,,,,,,
-13,2020/8/3,2020/8/9,2020/8/11,Provincia Autonoma Trento,15,,,0.78,0.08,2.14,,,,,,
+13,2020/8/3,2020/8/9,2020/8/11,P.A. Bolzano,38,,,0.97,0.09,2.33,,,,,,
+13,2020/8/3,2020/8/9,2020/8/11,P.A. Trento,15,,,0.78,0.08,2.14,,,,,,
 13,2020/8/3,2020/8/9,2020/8/11,Puglia,97,,,1.14,0.61,2.35,,,,,,
 13,2020/8/3,2020/8/9,2020/8/11,Sardegna,24,,,0.33,0,1.37,,,,,,
 13,2020/8/3,2020/8/9,2020/8/11,Sicilia,173,,,1.41,0.46,2.45,,,,,,
@@ -305,8 +305,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 14,2020/8/10,2020/8/16,2020/8/18,Marche,90,,,0.85,0.35,1.8,,,,,,
 14,2020/8/10,2020/8/16,2020/8/18,Molise,17,,,0,0,0,,,,,,
 14,2020/8/10,2020/8/16,2020/8/18,Piemonte,208,,,0.91,0.35,1.81,,,,,,
-14,2020/8/10,2020/8/16,2020/8/18,Provincia Autonoma Bolzano / Bozen,30,,,0.5,0.03,1.73,,,,,,
-14,2020/8/10,2020/8/16,2020/8/18,Provincia Autonoma Trento,8,,,0.41,0,1.34,,,,,,
+14,2020/8/10,2020/8/16,2020/8/18,P.A. Bolzano,30,,,0.5,0.03,1.73,,,,,,
+14,2020/8/10,2020/8/16,2020/8/18,P.A. Trento,8,,,0.41,0,1.34,,,,,,
 14,2020/8/10,2020/8/16,2020/8/18,Puglia,118,,,0.8,0.11,1.68,,,,,,
 14,2020/8/10,2020/8/16,2020/8/18,Sardegna,53,,,0.9,0.12,2.35,,,,,,
 14,2020/8/10,2020/8/16,2020/8/18,Sicilia,232,,,0.99,0.52,1.99,,,,,,
@@ -326,8 +326,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 15,2020/8/17,2020/8/23,2020/8/25,Marche,69,,,0.56,0.08,1.47,,,,,,
 15,2020/8/17,2020/8/23,2020/8/25,Molise,14,,,0.16,0,0.87,,,,,,
 15,2020/8/17,2020/8/23,2020/8/25,Piemonte,268,,,0.75,0.21,1.57,,,,,,
-15,2020/8/17,2020/8/23,2020/8/25,Provincia Autonoma Bolzano / Bozen,64,,,0.49,0.02,1.22,,,,,,
-15,2020/8/17,2020/8/23,2020/8/25,Provincia Autonoma Trento,24,,,0.24,0,0.85,,,,,,
+15,2020/8/17,2020/8/23,2020/8/25,P.A. Bolzano,64,,,0.49,0.02,1.22,,,,,,
+15,2020/8/17,2020/8/23,2020/8/25,P.A. Trento,24,,,0.24,0,0.85,,,,,,
 15,2020/8/17,2020/8/23,2020/8/25,Puglia,226,,,0.72,0.12,1.76,,,,,,
 15,2020/8/17,2020/8/23,2020/8/25,Sardegna,178,,,1.1,0.19,2.92,,,,,,
 15,2020/8/17,2020/8/23,2020/8/25,Sicilia,212,,,0.68,0.26,1.41,,,,,,
@@ -347,8 +347,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 16,2020/8/24,2020/8/30,2020/9/1,Marche,117,,,0.78,0.34,1.41,,,,,,
 16,2020/8/24,2020/8/30,2020/9/1,Molise,14,,,0.24,0,0.72,,,,,,
 16,2020/8/24,2020/8/30,2020/9/1,Piemonte,476,,,0.9,0.57,1.32,,,,,,
-16,2020/8/24,2020/8/30,2020/9/1,Provincia Autonoma Bolzano / Bozen,51,,,0.71,0.24,1.35,,,,,,
-16,2020/8/24,2020/8/30,2020/9/1,Provincia Autonoma Trento,66,,,0.78,0,2.13,,,,,,
+16,2020/8/24,2020/8/30,2020/9/1,P.A. Bolzano,51,,,0.71,0.24,1.35,,,,,,
+16,2020/8/24,2020/8/30,2020/9/1,P.A. Trento,66,,,0.78,0,2.13,,,,,,
 16,2020/8/24,2020/8/30,2020/9/1,Puglia,355,,,1.08,0.54,1.51,,,,,,
 16,2020/8/24,2020/8/30,2020/9/1,Sardegna,252,,,1.99,0.68,3.47,,,,,,
 16,2020/8/24,2020/8/30,2020/9/1,Sicilia,239,,,0.82,0.53,1.16,,,,,,
@@ -368,8 +368,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 17,2020/8/31,2020/9/6,2020/9/8,Marche,113,,,0.84,0.39,1.41,,,,,,
 17,2020/8/31,2020/9/6,2020/9/8,Molise,16,,,0.27,0.02,0.98,,,,,,
 17,2020/8/31,2020/9/6,2020/9/8,Piemonte,387,,,0.93,0.34,1.75,,,,,,
-17,2020/8/31,2020/9/6,2020/9/8,Provincia Autonoma Bolzano / Bozen,57,,,0.71,0.25,1.4,,,,,,
-17,2020/8/31,2020/9/6,2020/9/8,Provincia Autonoma Trento,251,,,1.58,0.58,2.4,,,,,,
+17,2020/8/31,2020/9/6,2020/9/8,P.A. Bolzano,57,,,0.71,0.25,1.4,,,,,,
+17,2020/8/31,2020/9/6,2020/9/8,P.A. Trento,251,,,1.58,0.58,2.4,,,,,,
 17,2020/8/31,2020/9/6,2020/9/8,Puglia,434,,,1.21,0.83,1.59,,,,,,
 17,2020/8/31,2020/9/6,2020/9/8,Sardegna,296,,,1.41,0.56,3.31,,,,,,
 17,2020/8/31,2020/9/6,2020/9/8,Sicilia,298,,,0.96,0.66,1.32,,,,,,
@@ -389,8 +389,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 18,2020/9/7,2020/9/13,2020/9/15,Marche,187,,,0.85,0.41,1.45,,,,,,
 18,2020/9/7,2020/9/13,2020/9/15,Molise,21,,,0.75,0.03,3.05,,,,,,
 18,2020/9/7,2020/9/13,2020/9/15,Piemonte,502,,,0.69,0.41,1.18,,,,,,
-18,2020/9/7,2020/9/13,2020/9/15,Provincia Autonoma Bolzano / Bozen,135,,,0.99,0.22,1.92,,,,,,
-18,2020/9/7,2020/9/13,2020/9/15,Provincia Autonoma Trento,171,,,1.59,0.91,2.53,,,,,,
+18,2020/9/7,2020/9/13,2020/9/15,P.A. Bolzano,135,,,0.99,0.22,1.92,,,,,,
+18,2020/9/7,2020/9/13,2020/9/15,P.A. Trento,171,,,1.59,0.91,2.53,,,,,,
 18,2020/9/7,2020/9/13,2020/9/15,Puglia,616,,,1.13,0.84,1.55,,,,,,
 18,2020/9/7,2020/9/13,2020/9/15,Sardegna,290,,,0.88,0.56,1.13,,,,,,
 18,2020/9/7,2020/9/13,2020/9/15,Sicilia,460,,,1.08,0.7,1.43,,,,,,
@@ -410,8 +410,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 19,2020/9/14,2020/9/20,2020/9/22,Marche,176,,,0.99,0.47,1.63,,,,,,
 19,2020/9/14,2020/9/20,2020/9/22,Molise,48,,,1.04,0.26,3.17,,,,,,
 19,2020/9/14,2020/9/20,2020/9/22,Piemonte,572,,,0.96,0.54,1.43,,,,,,
-19,2020/9/14,2020/9/20,2020/9/22,Provincia Autonoma Bolzano / Bozen,172,,,1.28,0.71,2.12,,,,,,
-19,2020/9/14,2020/9/20,2020/9/22,Provincia Autonoma Trento,200,,,1.24,0.67,2.06,,,,,,
+19,2020/9/14,2020/9/20,2020/9/22,P.A. Bolzano,172,,,1.28,0.71,2.12,,,,,,
+19,2020/9/14,2020/9/20,2020/9/22,P.A. Trento,200,,,1.24,0.67,2.06,,,,,,
 19,2020/9/14,2020/9/20,2020/9/22,Puglia,546,,,1.06,0.73,1.46,,,,,,
 19,2020/9/14,2020/9/20,2020/9/22,Sardegna,224,,,0.77,0.5,1.13,,,,,,
 19,2020/9/14,2020/9/20,2020/9/22,Sicilia,551,,,1.2,0.77,1.75,,,,,,
@@ -431,8 +431,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 20,2020/9/21,2020/9/27,2020/9/29,Marche,123,,,0.99,0.61,1.71,,,,,,
 20,2020/9/21,2020/9/27,2020/9/29,Molise,28,,,0.7,0.16,1.97,,,,,,
 20,2020/9/21,2020/9/27,2020/9/29,Piemonte,737,,,1.22,0.84,1.55,,,,,,
-20,2020/9/21,2020/9/27,2020/9/29,Provincia Autonoma Bolzano / Bozen,177,,,1.12,0.58,1.63,,,,,,
-20,2020/9/21,2020/9/27,2020/9/29,Provincia Autonoma Trento,177,,,1.06,0.6,1.52,,,,,,
+20,2020/9/21,2020/9/27,2020/9/29,P.A. Bolzano,177,,,1.12,0.58,1.63,,,,,,
+20,2020/9/21,2020/9/27,2020/9/29,P.A. Trento,177,,,1.06,0.6,1.52,,,,,,
 20,2020/9/21,2020/9/27,2020/9/29,Puglia,524,,,1.02,0.8,1.32,,,,,,
 20,2020/9/21,2020/9/27,2020/9/29,Sardegna,334,,,0.86,0.59,1.13,,,,,,
 20,2020/9/21,2020/9/27,2020/9/29,Sicilia,628,,,1.19,0.88,1.57,,,,,,
@@ -452,8 +452,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 21,2020/9/28,2020/10/4,2020/10/6,Marche,228,,,0.91,0.59,1.25,,,,,,
 21,2020/9/28,2020/10/4,2020/10/6,Molise,36,,,0.61,0.15,1.56,,,,,,
 21,2020/9/28,2020/10/4,2020/10/6,Piemonte,1122,,,1.3,0.94,1.66,,,,,,
-21,2020/9/28,2020/10/4,2020/10/6,Provincia Autonoma Bolzano / Bozen,149,,,1.1,0.63,1.73,,,,,,
-21,2020/9/28,2020/10/4,2020/10/6,Provincia Autonoma Trento,234,,,1.18,0.8,1.62,,,,,,
+21,2020/9/28,2020/10/4,2020/10/6,P.A. Bolzano,149,,,1.1,0.63,1.73,,,,,,
+21,2020/9/28,2020/10/4,2020/10/6,P.A. Trento,234,,,1.18,0.8,1.62,,,,,,
 21,2020/9/28,2020/10/4,2020/10/6,Puglia,683,,,1.01,0.8,1.23,,,,,,
 21,2020/9/28,2020/10/4,2020/10/6,Sardegna,377,,,1.01,0.79,1.27,,,,,,
 21,2020/9/28,2020/10/4,2020/10/6,Sicilia,912,,,1.22,0.79,1.64,,,,,,
@@ -473,8 +473,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 22,2020/10/5,2020/10/11,2020/10/13,Marche,425,,,1.14,0.61,1.98,,,,,,
 22,2020/10/5,2020/10/11,2020/10/13,Molise,107,,,0.83,0.14,2.44,,,,,,
 22,2020/10/5,2020/10/11,2020/10/13,Piemonte,2528,,,1.39,1.02,1.83,,,,,,
-22,2020/10/5,2020/10/11,2020/10/13,Provincia Autonoma Bolzano / Bozen,429,,,1.32,0.69,2.44,,,,,,
-22,2020/10/5,2020/10/11,2020/10/13,Provincia Autonoma Trento,,,,,,,,,,,,
+22,2020/10/5,2020/10/11,2020/10/13,P.A. Bolzano,429,,,1.32,0.69,2.44,,,,,,
+22,2020/10/5,2020/10/11,2020/10/13,P.A. Trento,,,,,,,,,,,,
 22,2020/10/5,2020/10/11,2020/10/13,Puglia,1382,,,1.14,0.82,1.78,,,,,,
 22,2020/10/5,2020/10/11,2020/10/13,Sardegna,557,,,1.1,0.87,1.35,,,,,,
 22,2020/10/5,2020/10/11,2020/10/13,Sicilia,1378,,,1.23,0.88,1.69,,,,,,
@@ -494,8 +494,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 23,2020/10/12,2020/10/18,2020/10/20,Marche,805,,,1.47,0.85,1.96,,,,,,
 23,2020/10/12,2020/10/18,2020/10/20,Molise,220,,,1.45,0.25,2.7,,,,,,
 23,2020/10/12,2020/10/18,2020/10/20,Piemonte,5855,,,1.83,1.04,2.35,,,,,,
-23,2020/10/12,2020/10/18,2020/10/20,Provincia Autonoma Bolzano / Bozen,800,,,1.8,0.93,2.41,,,,,,
-23,2020/10/12,2020/10/18,2020/10/20,Provincia Autonoma Trento,486,,,1.26,0.9,1.6,,,,,,
+23,2020/10/12,2020/10/18,2020/10/20,P.A. Bolzano,800,,,1.8,0.93,2.41,,,,,,
+23,2020/10/12,2020/10/18,2020/10/20,P.A. Trento,486,,,1.26,0.9,1.6,,,,,,
 23,2020/10/12,2020/10/18,2020/10/20,Puglia,2001,,,1.52,0.84,2.15,,,,,,
 23,2020/10/12,2020/10/18,2020/10/20,Sardegna,442,,,1.16,0.75,1.49,,,,,,
 23,2020/10/12,2020/10/18,2020/10/20,Sicilia,2416,,,1.28,0.99,1.49,,,,,,
@@ -515,8 +515,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 24,2020/10/19,2020/10/25,2020/10/27,Marche,1610,,,1.48,0.86,2.15,,,,,,
 24,2020/10/19,2020/10/25,2020/10/27,Molise,339,,,1.86,0.91,2.92,,,,,,
 24,2020/10/19,2020/10/25,2020/10/27,Piemonte,11553,,,2.16,1.77,2.6,,,,,,
-24,2020/10/19,2020/10/25,2020/10/27,Provincia Autonoma Bolzano / Bozen,1446,,,1.96,1.62,2.43,,,,,,
-24,2020/10/19,2020/10/25,2020/10/27,Provincia Autonoma Trento,883,,,1.5,1.18,1.81,,,,,,
+24,2020/10/19,2020/10/25,2020/10/27,P.A. Bolzano,1446,,,1.96,1.62,2.43,,,,,,
+24,2020/10/19,2020/10/25,2020/10/27,P.A. Trento,883,,,1.5,1.18,1.81,,,,,,
 24,2020/10/19,2020/10/25,2020/10/27,Puglia,3627,,,1.65,1.35,2.22,,,,,,
 24,2020/10/19,2020/10/25,2020/10/27,Sardegna,548,,,1.12,0.79,1.55,,,,,,
 24,2020/10/19,2020/10/25,2020/10/27,Sicilia,3362,,,1.42,1.21,1.61,,,,,,
@@ -536,8 +536,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 25,2020/10/26,2020/11/1,2020/11/9,Marche,3536,+,+,1.01,0.91,1.11,f,moderata,bassa,,moderata ad alto rischio di progressione a rischio alto,
 25,2020/10/26,2020/11/1,2020/11/9,Molise,602,+,+,1.73,1.34,2.14,f,moderata,bassa,,moderata ad alto rischio di progressione a rischio alto,
 25,2020/10/26,2020/11/1,2020/11/9,Piemonte,18158,+,+,1.76,1.73,1.79,f,moderata,alta,,alta,
-25,2020/10/26,2020/11/1,2020/11/9,Provincia Autonoma Bolzano / Bozen,2491,+,+,1.73,1.62,1.86,f,moderata,alta,,alta,
-25,2020/10/26,2020/11/1,2020/11/9,Provincia Autonoma Trento,1481,+,-,1.54,1.42,1.67,f,moderata,bassa,,moderata ad alto rischio di progressione a rischio alto,
+25,2020/10/26,2020/11/1,2020/11/9,P.A. Bolzano,2491,+,+,1.73,1.62,1.86,f,moderata,alta,,alta,
+25,2020/10/26,2020/11/1,2020/11/9,P.A. Trento,1481,+,-,1.54,1.42,1.67,f,moderata,bassa,,moderata ad alto rischio di progressione a rischio alto,
 25,2020/10/26,2020/11/1,2020/11/9,Puglia,5508,+,+,1.56,1.49,1.65,f,moderata,bassa,,moderata ad alto rischio di progressione a rischio alto,
 25,2020/10/26,2020/11/1,2020/11/9,Sardegna,1723,+,+,1.14,1.05,1.23,f,moderata,bassa,,moderata ad alto rischio di progressione a rischio alto,
 25,2020/10/26,2020/11/1,2020/11/9,Sicilia,6115,+,+,1.28,1.23,1.34,f,moderata,bassa,,alta,
@@ -557,8 +557,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 26,2020/11/2,2020/11/8,2020/11/11,Marche,3139,,,1.35,0.91,1.8,,,,,,
 26,2020/11/2,2020/11/8,2020/11/11,Molise,591,,,1.32,0.74,2.35,,,,,,
 26,2020/11/2,2020/11/8,2020/11/11,Piemonte,23321,,,1.37,0.78,1.99,,,,,,
-26,2020/11/2,2020/11/8,2020/11/11,Provincia Autonoma Bolzano / Bozen,3751,,,1.55,1.03,1.99,,,,,,
-26,2020/11/2,2020/11/8,2020/11/11,Provincia Autonoma Trento,1663,,,1.32,0.93,1.74,,,,,,
+26,2020/11/2,2020/11/8,2020/11/11,P.A. Bolzano,3751,,,1.55,1.03,1.99,,,,,,
+26,2020/11/2,2020/11/8,2020/11/11,P.A. Trento,1663,,,1.32,0.93,1.74,,,,,,
 26,2020/11/2,2020/11/8,2020/11/11,Puglia,6990,,,1.45,1.16,1.7,,,,,,
 26,2020/11/2,2020/11/8,2020/11/11,Sardegna,917,,,1,0.62,1.33,,,,,,
 26,2020/11/2,2020/11/8,2020/11/11,Sicilia,7061,,,1.18,1.02,1.44,,,,,,
@@ -578,8 +578,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 27,2020/11/9,2020/11/15,2020/11/18,Marche,3108,,,1.27,1.01,1.78,,,,,,
 27,2020/11/9,2020/11/15,2020/11/18,Molise,717,,,1.05,0.69,1.72,,,,,,
 27,2020/11/9,2020/11/15,2020/11/18,Piemonte,25686,,,1.1,0.65,1.47,,,,,,
-27,2020/11/9,2020/11/15,2020/11/18,Provincia Autonoma Bolzano / Bozen,3891,,,1.22,0.79,1.71,,,,,,
-27,2020/11/9,2020/11/15,2020/11/18,Provincia Autonoma Trento,1567,,,1.07,0.8,1.46,,,,,,
+27,2020/11/9,2020/11/15,2020/11/18,P.A. Bolzano,3891,,,1.22,0.79,1.71,,,,,,
+27,2020/11/9,2020/11/15,2020/11/18,P.A. Trento,1567,,,1.07,0.8,1.46,,,,,,
 27,2020/11/9,2020/11/15,2020/11/18,Puglia,8293,,,1.24,0.94,1.57,,,,,,
 27,2020/11/9,2020/11/15,2020/11/18,Sardegna,877,,,0.84,0.54,1.25,,,,,,
 27,2020/11/9,2020/11/15,2020/11/18,Sicilia,7405,,,1.13,0.95,1.26,,,,,,
@@ -599,8 +599,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 28,2020/11/16,2020/11/22,2020/11/25,Marche,2573,,,0.97,0.71,1.27,,,,,,
 28,2020/11/16,2020/11/22,2020/11/25,Molise,775,,,1.12,0.68,1.92,,,,,,
 28,2020/11/16,2020/11/22,2020/11/25,Piemonte,21401,,,0.9,0.55,1.18,,,,,,
-28,2020/11/16,2020/11/22,2020/11/25,Provincia Autonoma Bolzano / Bozen,3461,,,1.03,0.8,1.3,,,,,,
-28,2020/11/16,2020/11/22,2020/11/25,Provincia Autonoma Trento,1293,,,0.9,0.68,1.15,,,,,,
+28,2020/11/16,2020/11/22,2020/11/25,P.A. Bolzano,3461,,,1.03,0.8,1.3,,,,,,
+28,2020/11/16,2020/11/22,2020/11/25,P.A. Trento,1293,,,0.9,0.68,1.15,,,,,,
 28,2020/11/16,2020/11/22,2020/11/25,Puglia,8745,,,1.06,0.84,1.4,,,,,,
 28,2020/11/16,2020/11/22,2020/11/25,Sardegna,1064,,,0.72,0.47,0.93,,,,,,
 28,2020/11/16,2020/11/22,2020/11/25,Sicilia,7559,,,1.05,0.73,1.31,,,,,,
@@ -620,8 +620,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 29,2020/11/23,2020/11/29,2020/12/3,Marche,2538,-,-,0.74,0.66,0.82,f,bassa,alta,1,moderata ad alto rischio di progressione a rischio alto,f
 29,2020/11/23,2020/11/29,2020/12/3,Molise,729,-,-,1.38,1.07,1.77,f,bassa,alta,2,moderata ad alto rischio di progressione a rischio alto,f
 29,2020/11/23,2020/11/29,2020/12/3,Piemonte,15045,-,-,0.72,0.71,0.73,f,bassa,alta,1,moderata,f
-29,2020/11/23,2020/11/29,2020/12/3,Provincia Autonoma Bolzano / Bozen,2327,-,-,0.8,0.77,0.84,f,bassa,alta,1,moderata,f
-29,2020/11/23,2020/11/29,2020/12/3,Provincia Autonoma Trento,1474,+,-,0.83,0.77,0.89,f,bassa,alta,1,moderata ad alto rischio di progressione a rischio alto,f
+29,2020/11/23,2020/11/29,2020/12/3,P.A. Bolzano,2327,-,-,0.8,0.77,0.84,f,bassa,alta,1,moderata,f
+29,2020/11/23,2020/11/29,2020/12/3,P.A. Trento,1474,+,-,0.83,0.77,0.89,f,bassa,alta,1,moderata ad alto rischio di progressione a rischio alto,f
 29,2020/11/23,2020/11/29,2020/12/3,Puglia,8944,-,+,0.89,0.86,0.91,f,moderata,alta,1,alta,t
 29,2020/11/23,2020/11/29,2020/12/3,Sardegna,1414,-,+,0.61,0.55,0.66,f,bassa,alta,1,alta,t
 29,2020/11/23,2020/11/29,2020/12/3,Sicilia,6383,-,-,0.79,0.76,0.81,f,bassa,bassa,1,moderata,f
@@ -641,8 +641,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 30,2020/11/30,2020/12/6,2020/12/9,Marche,2346,,,0.87,0.67,1.26,,,,,,
 30,2020/11/30,2020/12/6,2020/12/9,Molise,575,,,1.48,0.99,2.06,,,,,,
 30,2020/11/30,2020/12/6,2020/12/9,Piemonte,10535,,,0.68,0.63,0.76,,,,,,
-30,2020/11/30,2020/12/6,2020/12/9,Provincia Autonoma Bolzano / Bozen,1655,,,0.74,0.63,0.89,,,,,,
-30,2020/11/30,2020/12/6,2020/12/9,Provincia Autonoma Trento,1548,,,0.89,0.76,1,,,,,,
+30,2020/11/30,2020/12/6,2020/12/9,P.A. Bolzano,1655,,,0.74,0.63,0.89,,,,,,
+30,2020/11/30,2020/12/6,2020/12/9,P.A. Trento,1548,,,0.89,0.76,1,,,,,,
 30,2020/11/30,2020/12/6,2020/12/9,Puglia,8071,,,0.87,0.76,1.01,,,,,,
 30,2020/11/30,2020/12/6,2020/12/9,Sardegna,1339,,,0.73,0.6,0.89,,,,,,
 30,2020/11/30,2020/12/6,2020/12/9,Sicilia,5027,,,0.72,0.59,0.88,,,,,,
@@ -662,8 +662,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 31,2020/12/7,2020/12/13,2020/12/16,Marche,1997,-,-,0.97,0.87,1.07,f,bassa,alta,1,moderata ad alto rischio di progressione a rischio alto,f
 31,2020/12/7,2020/12/13,2020/12/16,Molise,343,-,-,1.16,0.94,1.42,f,bassa,bassa,1,bassa ad alta probabilità di progressione,f
 31,2020/12/7,2020/12/13,2020/12/16,Piemonte,6865,-,-,0.68,0.66,0.7,f,bassa,alta,1,moderata,f
-31,2020/12/7,2020/12/13,2020/12/16,Provincia Autonoma Bolzano / Bozen,1372,-,-,0.81,0.76,0.86,f,bassa,alta,1,moderata,f
-31,2020/12/7,2020/12/13,2020/12/16,Provincia Autonoma Trento,1406,-,-,1.05,0.97,1.13,f,bassa,alta,1,moderata ad alto rischio di progressione a rischio alto,f
+31,2020/12/7,2020/12/13,2020/12/16,P.A. Bolzano,1372,-,-,0.81,0.76,0.86,f,bassa,alta,1,moderata,f
+31,2020/12/7,2020/12/13,2020/12/16,P.A. Trento,1406,-,-,1.05,0.97,1.13,f,bassa,alta,1,moderata ad alto rischio di progressione a rischio alto,f
 31,2020/12/7,2020/12/13,2020/12/16,Puglia,6844,-,-,0.9,0.87,0.93,f,bassa,alta,1,moderata,f
 31,2020/12/7,2020/12/13,2020/12/16,Sardegna,1066,-,-,0.83,0.75,0.9,f,bassa,alta,1,moderata,f
 31,2020/12/7,2020/12/13,2020/12/16,Sicilia,4083,-,+,0.72,0.69,0.75,f,bassa,bassa,1,bassa,f
@@ -683,8 +683,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 32,2020/12/14,2020/12/20,2020/12/22,Marche,2161,,,0.93,0.67,1.25,,,,,,
 32,2020/12/14,2020/12/20,2020/12/22,Molise,441,,,1.07,0.56,1.77,,,,,,
 32,2020/12/14,2020/12/20,2020/12/22,Piemonte,5372,,,0.68,0.62,0.74,,,,,,
-32,2020/12/14,2020/12/20,2020/12/22,Provincia Autonoma Bolzano / Bozen,960,,,0.76,0.66,0.89,,,,,,
-32,2020/12/14,2020/12/20,2020/12/22,Provincia Autonoma Trento,1154,,,0.9,0.47,1.45,,,,,,
+32,2020/12/14,2020/12/20,2020/12/22,P.A. Bolzano,960,,,0.76,0.66,0.89,,,,,,
+32,2020/12/14,2020/12/20,2020/12/22,P.A. Trento,1154,,,0.9,0.47,1.45,,,,,,
 32,2020/12/14,2020/12/20,2020/12/22,Puglia,7050,,,0.97,0.84,1.06,,,,,,
 32,2020/12/14,2020/12/20,2020/12/22,Sardegna,1201,,,0.82,0.67,1.01,,,,,,
 32,2020/12/14,2020/12/20,2020/12/22,Sicilia,4837,,,0.8,0.71,1.01,,,,,,
@@ -704,8 +704,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 33,2020/12/21,2020/12/27,2020/12/29,Marche,1940,-,-,0.99,0.88,1.09,f,bassa,bassa,1,bassa,f
 33,2020/12/21,2020/12/27,2020/12/29,Molise,260,-,-,0.89,0.67,1.14,f,bassa,bassa,1,bassa ad alto rischio di progressione a moderata,f
 33,2020/12/21,2020/12/27,2020/12/29,Piemonte,4215,-,-,0.71,0.68,0.73,f,bassa,alta,1,moderata,f
-33,2020/12/21,2020/12/27,2020/12/29,Provincia Autonoma Bolzano / Bozen,709,-,-,0.76,0.7,0.82,f,bassa,bassa,1,bassa,f
-33,2020/12/21,2020/12/27,2020/12/29,Provincia Autonoma Trento,646,-,-,0.71,0.66,0.77,f,bassa,alta,1,moderata,f
+33,2020/12/21,2020/12/27,2020/12/29,P.A. Bolzano,709,-,-,0.76,0.7,0.82,f,bassa,bassa,1,bassa,f
+33,2020/12/21,2020/12/27,2020/12/29,P.A. Trento,646,-,-,0.71,0.66,0.77,f,bassa,alta,1,moderata,f
 33,2020/12/21,2020/12/27,2020/12/29,Puglia,5547,-,-,1,0.97,1.03,f,bassa,alta,1,moderata,f
 33,2020/12/21,2020/12/27,2020/12/29,Sardegna,1069,-,-,0.78,0.72,0.85,f,non valutabile,bassa,1,non valutabile,f
 33,2020/12/21,2020/12/27,2020/12/29,Sicilia,4649,-,+,0.93,0.89,0.97,f,bassa,bassa,1,bassa,f
@@ -725,8 +725,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 34,2020/12/28,2021/1/3,2021/1/5,Marche,3052,+,-,0.93,0.82,1.05,f,moderata,alta,1,alta,f
 34,2020/12/28,2021/1/3,2021/1/5,Molise,362,+,+,1.27,0.96,1.63,f,moderata,bassa,1,moderata ad alto rischio di progressione a rischio alto,f
 34,2020/12/28,2021/1/3,2021/1/5,Piemonte,5395,+,+,0.95,0.92,0.99,f,moderata,alta,1,alta,f
-34,2020/12/28,2021/1/3,2021/1/5,Provincia Autonoma Bolzano / Bozen,1231,+,+,0.81,0.75,0.89,f,moderata,alta,1,alta,f
-34,2020/12/28,2021/1/3,2021/1/5,Provincia Autonoma Trento,697,+,+,0.85,0.79,0.91,f,moderata,alta,1,alta,f
+34,2020/12/28,2021/1/3,2021/1/5,P.A. Bolzano,1231,+,+,0.81,0.75,0.89,f,moderata,alta,1,alta,f
+34,2020/12/28,2021/1/3,2021/1/5,P.A. Trento,697,+,+,0.85,0.79,0.91,f,moderata,alta,1,alta,f
 34,2020/12/28,2021/1/3,2021/1/5,Puglia,7161,+,+,1,0.96,1.03,f,moderata,alta,1,alta,f
 34,2020/12/28,2021/1/3,2021/1/5,Sardegna,1272,-,+,1.02,0.95,1.09,f,moderata,bassa,1,moderata,f
 34,2020/12/28,2021/1/3,2021/1/5,Sicilia,6634,+,+,1.04,0.99,1.08,f,moderata,bassa,1,moderata,f
@@ -746,8 +746,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 35,2021/1/4,2021/1/10,2021/1/13,Marche,3228,+,+,0.97,0.87,1.09,f,moderata,alta,1,alta,f
 35,2021/1/4,2021/1/10,2021/1/13,Molise,380,+,+,0.7,0.46,0.98,f,moderata,bassa,1,moderata ad alto rischio di progressione a rischio alto,f
 35,2021/1/4,2021/1/10,2021/1/13,Piemonte,6869,+,+,1.14,1.1,1.18,f,moderata,alta,2,alta,f
-35,2021/1/4,2021/1/10,2021/1/13,Provincia Autonoma Bolzano / Bozen,1707,+,-,1.5,1.4,1.58,f,moderata,alta,3,alta,f
-35,2021/1/4,2021/1/10,2021/1/13,Provincia Autonoma Trento,624,-,-,1.01,0.95,1.09,f,moderata,moderata,1,moderata ad alto rischio di progressione a rischio alto,f
+35,2021/1/4,2021/1/10,2021/1/13,P.A. Bolzano,1707,+,-,1.5,1.4,1.58,f,moderata,alta,3,alta,f
+35,2021/1/4,2021/1/10,2021/1/13,P.A. Trento,624,-,-,1.01,0.95,1.09,f,moderata,moderata,1,moderata ad alto rischio di progressione a rischio alto,f
 35,2021/1/4,2021/1/10,2021/1/13,Puglia,8106,+,+,1.18,1.14,1.21,f,moderata,alta,2,alta,f
 35,2021/1/4,2021/1/10,2021/1/13,Sardegna,1711,-,+,0.99,0.92,1.05,f,moderata,bassa,1,moderata,f
 35,2021/1/4,2021/1/10,2021/1/13,Sicilia,11217,+,+,1.19,1.14,1.25,f,moderata,bassa,2,alta,f
@@ -767,8 +767,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 36,2021/1/11,2021/1/17,2021/1/20,Marche,2621,-,-,0.98,0.87,1.09,f,bassa,bassa,1,moderata ad alto rischio di progressione a rischio alto,f
 36,2021/1/11,2021/1/17,2021/1/20,Molise,460,+,+,1.38,0.97,1.87,f,moderata,moderata,1,moderata ad alto rischio di progressione a rischio alto,f
 36,2021/1/11,2021/1/17,2021/1/20,Piemonte,5178,-,-,1.04,0.99,1.07,f,bassa,bassa,1,moderata,f
-36,2021/1/11,2021/1/17,2021/1/20,Provincia Autonoma Bolzano / Bozen,1647,-,+,1.03,0.96,1.09,f,moderata,moderata,1,alta,t
-36,2021/1/11,2021/1/17,2021/1/20,Provincia Autonoma Trento,710,-,+,0.9,0.84,0.96,f,bassa,bassa,1,moderata ad alto rischio di progressione a rischio alto,f
+36,2021/1/11,2021/1/17,2021/1/20,P.A. Bolzano,1647,-,+,1.03,0.96,1.09,f,moderata,moderata,1,alta,t
+36,2021/1/11,2021/1/17,2021/1/20,P.A. Trento,710,-,+,0.9,0.84,0.96,f,bassa,bassa,1,moderata ad alto rischio di progressione a rischio alto,f
 36,2021/1/11,2021/1/17,2021/1/20,Puglia,7426,-,-,1.08,1.06,1.11,f,bassa,bassa,2,moderata,f
 36,2021/1/11,2021/1/17,2021/1/20,Sardegna,1281,-,+,0.95,0.9,1.01,f,moderata,moderata,1,alta,f
 36,2021/1/11,2021/1/17,2021/1/20,Sicilia,9819,-,+,1.27,1.23,1.31,f,moderata,moderata,2,alta,f
@@ -788,8 +788,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 37,2021/1/18,2021/1/24,2021/1/27,Marche,2487,-,-,0.88,0.78,0.99,f,bassa,alta,1,moderata,f
 37,2021/1/18,2021/1/24,2021/1/27,Molise,343,-,-,1.51,1.16,1.88,f,bassa,bassa,2,bassa ad alto rischio di progressione,f
 37,2021/1/18,2021/1/24,2021/1/27,Piemonte,4871,-,-,0.82,0.79,0.85,f,bassa,bassa,1,bassa,f
-37,2021/1/18,2021/1/24,2021/1/27,Provincia Autonoma Bolzano / Bozen,3104,+,+,0.8,0.74,0.85,f,moderata,bassa,1,moderata ad alto rischio di progressione a rischio alto,f
-37,2021/1/18,2021/1/24,2021/1/27,Provincia Autonoma Trento,1100,-,-,0.56,0.51,0.61,f,bassa,moderata,1,moderata,f
+37,2021/1/18,2021/1/24,2021/1/27,P.A. Bolzano,3104,+,+,0.8,0.74,0.85,f,moderata,bassa,1,moderata ad alto rischio di progressione a rischio alto,f
+37,2021/1/18,2021/1/24,2021/1/27,P.A. Trento,1100,-,-,0.56,0.51,0.61,f,bassa,moderata,1,moderata,f
 37,2021/1/18,2021/1/24,2021/1/27,Puglia,6528,-,-,0.9,0.88,0.93,f,bassa,alta,1,moderata,f
 37,2021/1/18,2021/1/24,2021/1/27,Sardegna,1185,-,-,0.81,0.76,0.87,f,bassa,bassa,1,bassa,f
 37,2021/1/18,2021/1/24,2021/1/27,Sicilia,7766,-,-,0.98,0.95,1.02,f,bassa,bassa,1,bassa,f
@@ -809,8 +809,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 38,2021/1/25,2021/1/31,2021/2/3,Marche,2346,-,-,0.95,0.86,1.05,f,bassa,alta,1,moderata,f
 38,2021/1/25,2021/1/31,2021/2/3,Molise,497,+,+,0.9,0.65,1.19,f,moderata,bassa,1,moderata ad alto rischio di progressione,f
 38,2021/1/25,2021/1/31,2021/2/3,Piemonte,5090,+,-,0.78,0.74,0.81,f,moderata,bassa,1,moderata,f
-38,2021/1/25,2021/1/31,2021/2/3,Provincia Autonoma Bolzano / Bozen,3657,+,-,1.06,1,1.13,f,moderata,alta,2,alta,f
-38,2021/1/25,2021/1/31,2021/2/3,Provincia Autonoma Trento,1316,+,+,0.61,0.55,0.67,f,moderata,moderata,1,moderata,f
+38,2021/1/25,2021/1/31,2021/2/3,P.A. Bolzano,3657,+,-,1.06,1,1.13,f,moderata,alta,2,alta,f
+38,2021/1/25,2021/1/31,2021/2/3,P.A. Trento,1316,+,+,0.61,0.55,0.67,f,moderata,moderata,1,moderata,f
 38,2021/1/25,2021/1/31,2021/2/3,Puglia,6727,+,-,0.91,0.88,0.93,f,moderata,alta,1,alta,f
 38,2021/1/25,2021/1/31,2021/2/3,Sardegna,935,-,-,0.75,0.69,0.81,f,bassa,bassa,1,bassa,f
 38,2021/1/25,2021/1/31,2021/2/3,Sicilia,5257,-,-,0.73,0.7,0.75,f,bassa,bassa,1,bassa,f
@@ -830,8 +830,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 39,2021/2/1,2021/2/7,2021/2/10,Marche,2336,-,-,0.94,0.86,1.04,f,bassa,alta,1,moderata,f
 39,2021/2/1,2021/2/7,2021/2/10,Molise,525,+,-,1.09,0.79,1.41,f,moderata,bassa,1,moderata ad alto rischio di progressione,f
 39,2021/2/1,2021/2/7,2021/2/10,Piemonte,5046,-,+,0.93,0.9,0.97,f,bassa,bassa,1,bassa,f
-39,2021/2/1,2021/2/7,2021/2/10,Provincia Autonoma Bolzano / Bozen,4102,+,-,1.25,1.2,1.3,f,moderata,alta,2,alta,f
-39,2021/2/1,2021/2/7,2021/2/10,Provincia Autonoma Trento,1390,+,=,1.2,1.12,1.28,f,moderata,moderata,2,moderata ad alto rischio di progressione,f
+39,2021/2/1,2021/2/7,2021/2/10,P.A. Bolzano,4102,+,-,1.25,1.2,1.3,f,moderata,alta,2,alta,f
+39,2021/2/1,2021/2/7,2021/2/10,P.A. Trento,1390,+,=,1.2,1.12,1.28,f,moderata,moderata,2,moderata ad alto rischio di progressione,f
 39,2021/2/1,2021/2/7,2021/2/10,Puglia,5962,-,-,1.05,1.01,1.09,f,bassa,bassa,2,bassa,f
 39,2021/2/1,2021/2/7,2021/2/10,Sardegna,801,-,-,0.87,0.82,0.93,f,bassa,bassa,1,bassa,f
 39,2021/2/1,2021/2/7,2021/2/10,Sicilia,4333,-,-,0.66,0.63,0.69,f,bassa,bassa,1,bassa,f
@@ -851,8 +851,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 40,2021/2/8,2021/2/14,2021/2/17,Marche,2408,-,-,0.91,0.81,1.01,f,bassa,alta,1,moderata ad alta probabilità di progressione,f
 40,2021/2/8,2021/2/14,2021/2/17,Molise,563,+,+,1.4,1.03,1.83,f,moderata,bassa,2,bassa,f
 40,2021/2/8,2021/2/14,2021/2/17,Piemonte,4937,-,-,0.96,0.92,1,f,bassa,bassa,1,moderata ad alta probabilità di progressione,f
-40,2021/2/8,2021/2/14,2021/2/17,Provincia Autonoma Bolzano / Bozen,3923,-,-,1.16,1.12,1.2,f,bassa,alta,2,bassa,f
-40,2021/2/8,2021/2/14,2021/2/17,Provincia Autonoma Trento,1389,-,-,1.23,1.16,1.3,f,moderata,bassa,2,moderata ad alta probabilità di progressione,f
+40,2021/2/8,2021/2/14,2021/2/17,P.A. Bolzano,3923,-,-,1.16,1.12,1.2,f,bassa,alta,2,bassa,f
+40,2021/2/8,2021/2/14,2021/2/17,P.A. Trento,1389,-,-,1.23,1.16,1.3,f,moderata,bassa,2,moderata ad alta probabilità di progressione,f
 40,2021/2/8,2021/2/14,2021/2/17,Puglia,5850,-,-,1,0.97,1.04,f,bassa,bassa,1,moderata ad alta probabilità di progressione,f
 40,2021/2/8,2021/2/14,2021/2/17,Sardegna,624,-,-,0.77,0.71,0.84,f,bassa,bassa,1,bassa ad alta probabilità di progressione,f
 40,2021/2/8,2021/2/14,2021/2/17,Sicilia,3364,-,-,0.73,0.7,0.76,f,bassa,bassa,1,bassa,f
@@ -872,8 +872,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 41,2021/2/15,2021/2/21,2021/2/24,Marche,2679,+,+,0.98,0.88,1.09,f,moderata,alta,1,alta,f
 41,2021/2/15,2021/2/21,2021/2/24,Molise,646,+,-,1.11,0.8,1.45,f,moderata,moderata,1,moderata ad alta probabilità di progressione,f
 41,2021/2/15,2021/2/21,2021/2/24,Piemonte,5420,+,+,1.02,0.98,1.05,t,alta,bassa,1,alta,f
-41,2021/2/15,2021/2/21,2021/2/24,Provincia Autonoma Bolzano / Bozen,2871,-,+,0.92,0.89,0.96,f,bassa,alta,1,moderata,f
-41,2021/2/15,2021/2/21,2021/2/24,Provincia Autonoma Trento,1686,+,+,1.07,1,1.14,f,moderata,moderata,2,moderata ad alta probabilità di progressione,f
+41,2021/2/15,2021/2/21,2021/2/24,P.A. Bolzano,2871,-,+,0.92,0.89,0.96,f,bassa,alta,1,moderata,f
+41,2021/2/15,2021/2/21,2021/2/24,P.A. Trento,1686,+,+,1.07,1,1.14,f,moderata,moderata,2,moderata ad alta probabilità di progressione,f
 41,2021/2/15,2021/2/21,2021/2/24,Puglia,5095,-,+,0.95,0.92,0.98,f,bassa,bassa,1,bassa,f
 41,2021/2/15,2021/2/21,2021/2/24,Sardegna,475,-,-,0.68,0.61,0.74,f,bassa,bassa,1,bassa,f
 41,2021/2/15,2021/2/21,2021/2/24,Sicilia,2868,-,-,0.71,0.67,0.75,f,bassa,bassa,1,bassa,f
@@ -893,8 +893,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 42,2021/2/22,2021/2/28,2021/3/3,Marche,4011,+,+,1.08,0.98,1.19,f,moderata,alta,1,alta,f
 42,2021/2/22,2021/2/28,2021/3/3,Molise,580,-,+,1.66,1.27,2.07,f,moderata,moderata,3,moderata ad alta probabilità di progressione,f
 42,2021/2/22,2021/2/28,2021/3/3,Piemonte,8237,+,+,1.15,1.12,1.19,f,moderata,bassa,2,moderata ad alta probabilità di progressione,f
-42,2021/2/22,2021/2/28,2021/3/3,Provincia Autonoma Bolzano / Bozen,2008,-,-,0.75,0.71,0.79,f,bassa,alta,1,moderata,f
-42,2021/2/22,2021/2/28,2021/3/3,Provincia Autonoma Trento,2100,+,+,1.1,1.03,1.16,f,moderata,moderata,2,moderata ad alta probabilità di progressione,f
+42,2021/2/22,2021/2/28,2021/3/3,P.A. Bolzano,2008,-,-,0.75,0.71,0.79,f,bassa,alta,1,moderata,f
+42,2021/2/22,2021/2/28,2021/3/3,P.A. Trento,2100,+,+,1.1,1.03,1.16,f,moderata,moderata,2,moderata ad alta probabilità di progressione,f
 42,2021/2/22,2021/2/28,2021/3/3,Puglia,6710,+,+,0.93,0.9,0.96,f,moderata,bassa,1,moderata ad alta probabilità di progressione,f
 42,2021/2/22,2021/2/28,2021/3/3,Sardegna,441,-,-,0.67,0.6,0.75,f,bassa,bassa,1,bassa,f
 42,2021/2/22,2021/2/28,2021/3/3,Sicilia,3322,+,-,0.79,0.75,0.84,f,moderata,bassa,1,moderata,f
@@ -914,8 +914,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 43,2021/3/1,2021/3/7,2021/3/10,Marche,4700,+,+,1.08,0.99,1.18,f,moderata,alta,1,alta,t
 43,2021/3/1,2021/3/7,2021/3/10,Molise,474,-,-,1.07,0.83,1.33,f,bassa,alta,1,moderata ad alta probabilità di progressione,f
 43,2021/3/1,2021/3/7,2021/3/10,Piemonte,12069,+,+,1.41,1.36,1.45,f,moderata,alta,3,alta,f
-43,2021/3/1,2021/3/7,2021/3/10,Provincia Autonoma Bolzano / Bozen,1380,-,+,0.61,0.57,0.65,f,bassa,alta,1,moderata,f
-43,2021/3/1,2021/3/7,2021/3/10,Provincia Autonoma Trento,1916,-,+,1.04,0.99,1.1,f,moderata,moderata,1,moderata ad alta probabilità di progressione,f
+43,2021/3/1,2021/3/7,2021/3/10,P.A. Bolzano,1380,-,+,0.61,0.57,0.65,f,bassa,alta,1,moderata,f
+43,2021/3/1,2021/3/7,2021/3/10,P.A. Trento,1916,-,+,1.04,0.99,1.1,f,moderata,moderata,1,moderata ad alta probabilità di progressione,f
 43,2021/3/1,2021/3/7,2021/3/10,Puglia,8153,+,+,1.23,1.2,1.27,t,alta,bassa,2,alta,f
 43,2021/3/1,2021/3/7,2021/3/10,Sardegna,514,-,-,0.89,0.78,1,f,bassa,bassa,1,bassa,f
 43,2021/3/1,2021/3/7,2021/3/10,Sicilia,3778,+,+,1,0.95,1.06,f,moderata,bassa,1,moderata,f
@@ -935,8 +935,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 44,2021/3/8,2021/3/14,2021/3/17,Marche,4826,+,-,1.19,1.1,1.28,f,moderata,alta,2,alta,t
 44,2021/3/8,2021/3/14,2021/3/17,Molise,439,-,+,0.89,0.65,1.17,f,bassa,moderata,1,moderata ad alta probabilità di progressione,f
 44,2021/3/8,2021/3/14,2021/3/17,Piemonte,14083,+,+,1.33,1.3,1.36,f,moderata,alta,3,alta,f
-44,2021/3/8,2021/3/14,2021/3/17,Provincia Autonoma Bolzano / Bozen,959,-,-,0.59,0.55,0.64,f,bassa,moderata,1,moderata,f
-44,2021/3/8,2021/3/14,2021/3/17,Provincia Autonoma Trento,1834,-,=,0.91,0.85,0.96,f,bassa,moderata,1,moderata ad alta probabilità di progressione,f
+44,2021/3/8,2021/3/14,2021/3/17,P.A. Bolzano,959,-,-,0.59,0.55,0.64,f,bassa,moderata,1,moderata,f
+44,2021/3/8,2021/3/14,2021/3/17,P.A. Trento,1834,-,=,0.91,0.85,0.96,f,bassa,moderata,1,moderata ad alta probabilità di progressione,f
 44,2021/3/8,2021/3/14,2021/3/17,Puglia,9634,+,+,1.24,1.2,1.27,f,moderata,alta,2,alta,f
 44,2021/3/8,2021/3/14,2021/3/17,Sardegna,578,+,+,1.08,0.97,1.2,f,moderata,bassa,1,moderata,f
 44,2021/3/8,2021/3/14,2021/3/17,Sicilia,4391,+,+,1.05,1,1.11,f,moderata,bassa,2,moderata,f
@@ -956,8 +956,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 45,2021/3/15,2021/3/21,2021/3/24,Marche,4284,-,-,1.15,1.08,1.23,f,bassa,alta,2,moderata ad alta probabilità di progressione,f
 45,2021/3/15,2021/3/21,2021/3/24,Molise,346,-,-,1.17,0.88,1.52,f,bassa,moderata,1,moderata ad alta probabilità di progressione,f
 45,2021/3/15,2021/3/21,2021/3/24,Piemonte,14830,+,+,1.17,1.15,1.19,f,moderata,alta,2,alta,t
-45,2021/3/15,2021/3/21,2021/3/24,Provincia Autonoma Bolzano / Bozen,794,-,+,0.78,0.72,0.85,f,moderata,alta,2,alta,t
-45,2021/3/15,2021/3/21,2021/3/24,Provincia Autonoma Trento,1608,-,-,1.02,0.96,1.07,f,bassa,moderata,1,moderata ad alta probabilità di progressione,f
+45,2021/3/15,2021/3/21,2021/3/24,P.A. Bolzano,794,-,+,0.78,0.72,0.85,f,moderata,alta,2,alta,t
+45,2021/3/15,2021/3/21,2021/3/24,P.A. Trento,1608,-,-,1.02,0.96,1.07,f,bassa,moderata,1,moderata ad alta probabilità di progressione,f
 45,2021/3/15,2021/3/21,2021/3/24,Puglia,10643,+,+,1.17,1.14,1.19,f,moderata,alta,2,alta,t
 45,2021/3/15,2021/3/21,2021/3/24,Sardegna,794,+,+,1.03,0.92,1.14,f,moderata,bassa,1,moderata,f
 45,2021/3/15,2021/3/21,2021/3/24,Sicilia,5072,+,+,0.99,0.95,1.04,f,moderata,bassa,1,moderata,f
@@ -977,8 +977,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 46,2021/3/22,2021/3/28,2021/3/31,Marche,3430,-,-,1.04,0.97,1.12,f,bassa,moderata,1,moderata ad alta probabilità di progressione,f
 46,2021/3/22,2021/3/28,2021/3/31,Molise,253,-,-,1,0.74,1.28,f,bassa,moderata,1,moderata,f
 46,2021/3/22,2021/3/28,2021/3/31,Piemonte,14210,-,+,0.96,0.94,0.98,f,bassa,alta,1,moderata,f
-46,2021/3/22,2021/3/28,2021/3/31,Provincia Autonoma Bolzano / Bozen,753,-,+,0.8,0.72,0.88,f,bassa,bassa,1,bassa,f
-46,2021/3/22,2021/3/28,2021/3/31,Provincia Autonoma Trento,1369,-,-,0.83,0.78,0.9,f,bassa,alta,1,moderata ad alta probabilità di progressione,f
+46,2021/3/22,2021/3/28,2021/3/31,P.A. Bolzano,753,-,+,0.8,0.72,0.88,f,bassa,bassa,1,bassa,f
+46,2021/3/22,2021/3/28,2021/3/31,P.A. Trento,1369,-,-,0.83,0.78,0.9,f,bassa,alta,1,moderata ad alta probabilità di progressione,f
 46,2021/3/22,2021/3/28,2021/3/31,Puglia,11717,+,+,1.09,1.07,1.11,f,moderata,moderata,2,alta,t
 46,2021/3/22,2021/3/28,2021/3/31,Sardegna,1198,+,+,1.18,1.07,1.3,f,moderata,bassa,2,moderata ad alta probabilità di progressione,f
 46,2021/3/22,2021/3/28,2021/3/31,Sicilia,6189,+,+,1.08,1.04,1.13,f,moderata,bassa,2,moderata,f
@@ -998,8 +998,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 47,2021/3/29,2021/4/4,2021/4/7,Marche,2940,-,-,0.86,0.8,0.92,f,bassa,alta,1,moderata,f
 47,2021/3/29,2021/4/4,2021/4/7,Molise,199,-,-,0.81,0.54,1.13,f,bassa,moderata,1,moderata,f
 47,2021/3/29,2021/4/4,2021/4/7,Piemonte,12672,-,-,0.9,0.88,0.92,f,basas,alta,1,moderata,f
-47,2021/3/29,2021/4/4,2021/4/7,Provincia Autonoma Bolzano / Bozen,690,-,-,0.91,0.83,0.99,f,bassa,bassa,1,bassa,f
-47,2021/3/29,2021/4/4,2021/4/7,Provincia Autonoma Trento,929,-,-,0.86,0.8,0.92,f,bassa,moderata,1,moderata ad alta probabilità di progressione,f
+47,2021/3/29,2021/4/4,2021/4/7,P.A. Bolzano,690,-,-,0.91,0.83,0.99,f,bassa,bassa,1,bassa,f
+47,2021/3/29,2021/4/4,2021/4/7,P.A. Trento,929,-,-,0.86,0.8,0.92,f,bassa,moderata,1,moderata ad alta probabilità di progressione,f
 47,2021/3/29,2021/4/4,2021/4/7,Puglia,11604,+,=,1.06,1.04,1.07,f,moderata,alta,2,alta,f
 47,2021/3/29,2021/4/4,2021/4/7,Sardegna,1792,+,+,1.54,1.43,1.64,f,moderata,bassa,3,moderata ad alta probabilità di progressione,f
 47,2021/3/29,2021/4/4,2021/4/7,Sicilia,7240,+,+,1.22,1.17,1.27,f,moderata,bassa,2,moderata ad alta probabilità di progressione,f
@@ -1019,8 +1019,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 48,2021/4/5,2021/4/11,2021/4/14,Marche,2084,-,-,0.9,0.83,0.96,f,bassa,moderata,1,moderata,f
 48,2021/4/5,2021/4/11,2021/4/14,Molise,192,-,-,0.79,0.51,1.11,f,bassa,moderata,1,moderata ad alta probabilità di progressione,f
 48,2021/4/5,2021/4/11,2021/4/14,Piemonte,8700,-,-,0.75,0.73,0.77,f,bassa,alta,1,moderata,f
-48,2021/4/5,2021/4/11,2021/4/14,Provincia Autonoma Bolzano / Bozen,521,-,-,0.87,0.89,0.96,f,bassa,bassa,1,bassa,f
-48,2021/4/5,2021/4/11,2021/4/14,Provincia Autonoma Trento,654,-,-,0.69,0.63,0.75,f,bassa,alta,1,moderata,f
+48,2021/4/5,2021/4/11,2021/4/14,P.A. Bolzano,521,-,-,0.87,0.89,0.96,f,bassa,bassa,1,bassa,f
+48,2021/4/5,2021/4/11,2021/4/14,P.A. Trento,654,-,-,0.69,0.63,0.75,f,bassa,alta,1,moderata,f
 48,2021/4/5,2021/4/11,2021/4/14,Puglia,8769,-,-,0.89,0.88,0.91,f,bassa,alta,1,moderata,f
 48,2021/4/5,2021/4/11,2021/4/14,Sardegna,1635,-,+,1.38,1.29,1.45,f,moderata,bassa,3,moderata,f
 48,2021/4/5,2021/4/11,2021/4/14,Sicilia,7639,+,-,1.03,1,1.07,f,moderata,bassa,2,moderata ad alta probabilità di progressione,f

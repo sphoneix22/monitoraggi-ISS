@@ -11,8 +11,8 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 48,2021/4/5,2021/4/11,2021/4/14,Marche,2084,-,-,0.9,0.83,0.96,f,bassa,moderata,1,moderata,f
 48,2021/4/5,2021/4/11,2021/4/14,Molise,192,-,-,0.79,0.51,1.11,f,bassa,moderata,1,moderata ad alta probabilità di progressione,f
 48,2021/4/5,2021/4/11,2021/4/14,Piemonte,8700,-,-,0.75,0.73,0.77,f,bassa,alta,1,moderata,f
-48,2021/4/5,2021/4/11,2021/4/14,Provincia Autonoma Bolzano / Bozen,521,-,-,0.87,0.89,0.96,f,bassa,bassa,1,bassa,f
-48,2021/4/5,2021/4/11,2021/4/14,Provincia Autonoma Trento,654,-,-,0.69,0.63,0.75,f,bassa,alta,1,moderata,f
+48,2021/4/5,2021/4/11,2021/4/14,P.A. Bolzano,521,-,-,0.87,0.89,0.96,f,bassa,bassa,1,bassa,f
+48,2021/4/5,2021/4/11,2021/4/14,P.A. Trento,654,-,-,0.69,0.63,0.75,f,bassa,alta,1,moderata,f
 48,2021/4/5,2021/4/11,2021/4/14,Puglia,8769,-,-,0.89,0.88,0.91,f,bassa,alta,1,moderata,f
 48,2021/4/5,2021/4/11,2021/4/14,Sardegna,1635,-,+,1.38,1.29,1.45,f,moderata,bassa,3,moderata,f
 48,2021/4/5,2021/4/11,2021/4/14,Sicilia,7639,+,-,1.03,1,1.07,f,moderata,bassa,2,moderata ad alta probabilità di progressione,f

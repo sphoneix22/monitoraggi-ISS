@@ -23,7 +23,7 @@ Dati suddivvisi per regione e per report
 | inizio_range | date | Data di inizio range del periodo di osservazione del report |
 | fine_range | date | Data di fine range del periodio di osservazione del report. |
 | data_report | date | Data di pubblicazione del report |
-| regione | string | Regione a cui si riferiscono i dati (Per le PA: "Provincia Autonoma Trento", "Provincia Autonoma Bolzano / Bozen") |
+| regione | string | Regione a cui si riferiscono i dati (Per le PA: "P.A Trento", "P.A. Bolzano") |
 | nuovi_casi_settimanali | string | Casi rilevati nel periodo di osservazione |
 | trend_casi | string | "+", "-", "=" |
 | trend_focolai | string | "+", "=", "=" |
