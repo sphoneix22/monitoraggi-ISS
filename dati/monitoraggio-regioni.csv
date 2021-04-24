@@ -1028,3 +1028,24 @@ numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali
 48,2021/4/5,2021/4/11,2021/4/14,Umbria,891,-,-,0.84,0.78,0.9,f,bassa,moderata,1,moderata,f
 48,2021/4/5,2021/4/11,2021/4/14,Valle d'Aosta,357,-,-,1.26,1.15,1.38,f,bassa,alta,2,moderata ad alta probabilità di progressione,f
 48,2021/4/5,2021/4/11,2021/4/14,Veneto,6387,-,-,0.81,0.79,0.83,f,bassa,bassa,1,bassa,f
+49,2021/4/12,2021/4/18,2021/4/21,Abruzzo,1345,-,-,0.84,0.79,0.89,f,bassa,bassa,1,bassa,f
+49,2021/4/12,2021/4/18,2021/4/21,Basilicata,1163,+,+,1.24,1.08,1.42,f,moderata,bassa,2,moderata,f
+49,2021/4/12,2021/4/18,2021/4/21,Calabria,2790,+,+,1.03,0.96,1.1,f,moderata,alta,1,alta,f
+49,2021/4/12,2021/4/18,2021/4/21,Campania,13156,+,+,0.92,0.89,0.95,f,moderata,bassa,1,moderata,f
+49,2021/4/12,2021/4/18,2021/4/21,Emilia-Romagna,6630,-,-,0.73,0.71,0.75,f,bassa,alta,1,moderata,f
+49,2021/4/12,2021/4/18,2021/4/21,Friulia Venezia Giulia,1413,-,-,0.61,0.58,0.64,f,bassa,bassa,1,bassa,f
+49,2021/4/12,2021/4/18,2021/4/21,Lazio,8060,-,-,0.78,0.76,0.81,f,bassa,alta,1,moderata,f
+49,2021/4/12,2021/4/18,2021/4/21,Liguria,2162,-,-,0.82,0.78,0.86,f,bassa,alta,1,moderata,f
+49,2021/4/12,2021/4/18,2021/4/21,Lombardia,14457,-,-,0.72,0.7,0.73,f,bassa,alta,1,moderata,f
+49,2021/4/12,2021/4/18,2021/4/21,Marche,1893,-,-,0.69,0.63,0.75,f,bassa,moderata,1,moderata,f
+49,2021/4/12,2021/4/18,2021/4/21,Molise,245,+,-,1.49,0.99,2.1,f,moderata,moderata,1,moderata ad alta probabilità di progressione,f
+49,2021/4/12,2021/4/18,2021/4/21,Piemonte,7109,-,-,0.66,0.64,0.68,f,bassa,alta,1,moderata,f
+49,2021/4/12,2021/4/18,2021/4/21,P.A. Bolzano,373,-,=,0.75,0.67,0.83,f,bassa,bassa,1,bassa,f
+49,2021/4/12,2021/4/18,2021/4/21,P.A. Trento,592,-,-,0.77,0.69,0.85,f,bassa,moderata,1,moderata,f
+49,2021/4/12,2021/4/18,2021/4/21,Puglia,8510,-,-,0.84,0.82,0.86,f,bassa,moderata,1,moderata,f
+49,2021/4/12,2021/4/18,2021/4/21,Sardegna,1806,-,+,0.97,0.92,1.01,f,moderata,bassa,1,alta,f
+49,2021/4/12,2021/4/18,2021/4/21,Sicilia,8217,+,+,1.12,1.08,1.17,f,moderata,bassa,2,moderata ad alta probabilità di progressione,f
+49,2021/4/12,2021/4/18,2021/4/21,Toscana,6751,+,-,0.88,0.86,0.9,f,bassa,alta,1,moderat,f
+49,2021/4/12,2021/4/18,2021/4/21,Umbria,752,-,-,0.89,0.83,0.95,f,bassa,bassa,1,bassa,f
+49,2021/4/12,2021/4/18,2021/4/21,Valle d'Aosta,329,-,-,0.94,0.85,1.03,f,bassa,moderata,1,moderata,f
+49,2021/4/12,2021/4/18,2021/4/21,Veneto,6327,-,-,0.71,0.69,0.73,f,bassa,bassa,1,bassa,f
