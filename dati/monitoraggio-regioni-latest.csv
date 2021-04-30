@@ -1,22 +1,22 @@
 numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali,trend_casi,trend_focolai,rt_puntuale,rt_range_inizio,rt_range_fine,trasmissione_non_gestibile,valutazione_probabilità,valutazione_impatto,compatibilità_rt,classificazione_rischio,classificazione_alta_tre_settimane
-49,2021/4/12,2021/4/18,2021/4/21,Abruzzo,1345,-,-,0.84,0.79,0.89,f,bassa,bassa,1,bassa,f
-49,2021/4/12,2021/4/18,2021/4/21,Basilicata,1163,+,+,1.24,1.08,1.42,f,moderata,bassa,2,moderata,f
-49,2021/4/12,2021/4/18,2021/4/21,Calabria,2790,+,+,1.03,0.96,1.1,f,moderata,alta,1,alta,f
-49,2021/4/12,2021/4/18,2021/4/21,Campania,13156,+,+,0.92,0.89,0.95,f,moderata,bassa,1,moderata,f
-49,2021/4/12,2021/4/18,2021/4/21,Emilia-Romagna,6630,-,-,0.73,0.71,0.75,f,bassa,alta,1,moderata,f
-49,2021/4/12,2021/4/18,2021/4/21,Friulia Venezia Giulia,1413,-,-,0.61,0.58,0.64,f,bassa,bassa,1,bassa,f
-49,2021/4/12,2021/4/18,2021/4/21,Lazio,8060,-,-,0.78,0.76,0.81,f,bassa,alta,1,moderata,f
-49,2021/4/12,2021/4/18,2021/4/21,Liguria,2162,-,-,0.82,0.78,0.86,f,bassa,alta,1,moderata,f
-49,2021/4/12,2021/4/18,2021/4/21,Lombardia,14457,-,-,0.72,0.7,0.73,f,bassa,alta,1,moderata,f
-49,2021/4/12,2021/4/18,2021/4/21,Marche,1893,-,-,0.69,0.63,0.75,f,bassa,moderata,1,moderata,f
-49,2021/4/12,2021/4/18,2021/4/21,Molise,245,+,-,1.49,0.99,2.1,f,moderata,moderata,1,moderata ad alta probabilità di progressione,f
-49,2021/4/12,2021/4/18,2021/4/21,Piemonte,7109,-,-,0.66,0.64,0.68,f,bassa,alta,1,moderata,f
-49,2021/4/12,2021/4/18,2021/4/21,P.A. Bolzano,373,-,=,0.75,0.67,0.83,f,bassa,bassa,1,bassa,f
-49,2021/4/12,2021/4/18,2021/4/21,P.A. Trento,592,-,-,0.77,0.69,0.85,f,bassa,moderata,1,moderata,f
-49,2021/4/12,2021/4/18,2021/4/21,Puglia,8510,-,-,0.84,0.82,0.86,f,bassa,moderata,1,moderata,f
-49,2021/4/12,2021/4/18,2021/4/21,Sardegna,1806,-,+,0.97,0.92,1.01,f,moderata,bassa,1,alta,f
-49,2021/4/12,2021/4/18,2021/4/21,Sicilia,8217,+,+,1.12,1.08,1.17,f,moderata,bassa,2,moderata ad alta probabilità di progressione,f
-49,2021/4/12,2021/4/18,2021/4/21,Toscana,6751,+,-,0.88,0.86,0.9,f,bassa,alta,1,moderat,f
-49,2021/4/12,2021/4/18,2021/4/21,Umbria,752,-,-,0.89,0.83,0.95,f,bassa,bassa,1,bassa,f
-49,2021/4/12,2021/4/18,2021/4/21,Valle d'Aosta,329,-,-,0.94,0.85,1.03,f,bassa,moderata,1,moderata,f
-49,2021/4/12,2021/4/18,2021/4/21,Veneto,6327,-,-,0.71,0.69,0.73,f,bassa,bassa,1,bassa,f
+50,2021/04/19,2021/04/25,2021/4/28,Abruzzo,1109,-,-,0.78,0.73,0.83,f,bassa,bassa,1,bassa,f
+50,2021/04/19,2021/04/25,2021/4/28,Basilicata,1066,-,-,1.02,0.87,1.16,f,bassa,bassa,1,bassa,f
+50,2021/04/19,2021/04/25,2021/4/28,Calabria,2595,-,-,0.75,0.69,0.81,f,bassa,alta,1,moderata,f
+50,2021/04/19,2021/04/25,2021/4/28,Campania,11693,-,-,1.08,1.05,1.11,f,bassa,bassa,2,bassa,f
+50,2021/04/19,2021/04/25,2021/4/28,Emilia-Romagna,6117,-,-,0.81,0.78,0.83,f,bassa,alta,1,moderata,f
+50,2021/04/19,2021/04/25,2021/4/28,Friulia Venezia Giulia,1128,-,-,0.71,0.67,0.75,f,bassa,bassa,1,bassa,f
+50,2021/04/19,2021/04/25,2021/4/28,Lazio,7994,-,+,0.85,0.82,0.86,f,bassa,alta,1,moderata,f
+50,2021/04/19,2021/04/25,2021/4/28,Liguria,1911,-,-,0.83,0.79,0.88,f,bassa,bassa,1,bassa,f
+50,2021/04/19,2021/04/25,2021/4/28,Lombardia,13967,-,-,0.84,0.82,0.86,f,bassa,alta,1,moderata,f
+50,2021/04/19,2021/04/25,2021/4/28,Marche,1781,-,-,0.81,0.73,0.9,f,bassa,moderata,1,moderata,f
+50,2021/04/19,2021/04/25,2021/4/28,Molise,232,-,-,1,0.63,1.44,f,bassa,bassa,1,bassa,f
+50,2021/04/19,2021/04/25,2021/4/28,Piemonte,6406,-,-,0.78,0.75,0.8,f,bassa,alta,1,moderata,f
+50,2021/04/19,2021/04/25,2021/4/28,P.A. Bolzano,383,-,+,0.99,0.89,1.09,f,moderata,bassa,1,moderata,f
+50,2021/04/19,2021/04/25,2021/4/28,P.A. Trento,578,-,-,0.84,0.74,0.93,f,bassa,bassa,1,bassa,f
+50,2021/04/19,2021/04/25,2021/4/28,Puglia,7958,-,-,0.92,0.9,0.95,f,bassa,alta,1,moderata,f
+50,2021/04/19,2021/04/25,2021/4/28,Sardegna,1531,-,-,0.81,0.76,0.86,f,bassa,bassa,1,bassa,f
+50,2021/04/19,2021/04/25,2021/4/28,Sicilia,7514,-,+,1.05,1.02,1.08,f,moderata,bassa,2,moderata,f
+50,2021/04/19,2021/04/25,2021/4/28,Toscana,5940,-,-,0.92,0.89,0.94,f,bassa,alta,1,moderata,f
+50,2021/04/19,2021/04/25,2021/4/28,Umbria,716,-,-,0.89,0.82,0.98,f,bassa,bassa,1,bassa,f
+50,2021/04/19,2021/04/25,2021/4/28,Valle d'Aosta,312,-,-,0.82,0.72,0.92,f,bassa,bassa,1,bassa,f
+50,2021/04/19,2021/04/25,2021/4/28,Veneto,6318,+,-,0.86,0.83,0.89,f,moderata,bassa,1,moderata,f
