@@ -1,22 +1,22 @@
 numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali,trend_casi,trend_focolai,rt_puntuale,rt_range_inizio,rt_range_fine,trasmissione_non_gestibile,valutazione_probabilità,valutazione_impatto,compatibilità_rt,classificazione_rischio,classificazione_alta_tre_settimane
-51,2021/4/26,2021/5/2,2021/5/5,Abruzzo,1010,-,-,0.82,0.75,0.88,f,bassa,bassa,1,bassa,f
-51,2021/4/26,2021/5/2,2021/5/5,Basilicata,906,-,-,0.82,0.69,0.95,f,bassa,bassa,1,bassa,f
-51,2021/4/26,2021/5/2,2021/5/5,Calabria,2283,-,+,0.74,0.67,0.81,f,bassa,alta,1,moderata ad alta probabilità di progressione,f
-51,2021/4/26,2021/5/2,2021/5/5,Campania,11215,-,-,0.95,0.92,0.97,f,bassa,bassa,1,bassa,f
-51,2021/4/26,2021/5/2,2021/5/5,Emilia-Romagna,5358,-,-,0.92,0.89,0.95,f,bassa,bassa,1,bassa,f
-51,2021/4/26,2021/5/2,2021/5/5,Friulia Venezia Giulia,780,-,-,0.78,0.72,0.83,f,bassa,bassa,1,bassa,f
-51,2021/4/26,2021/5/2,2021/5/5,Lazio,7080,-,-,0.91,0.88,0.94,f,bassa,bassa,1,bassa,f
-51,2021/4/26,2021/5/2,2021/5/5,Liguria,1607,-,-,0.96,0.91,1.02,f,bassa,bassa,1,bassa,f
-51,2021/4/26,2021/5/2,2021/5/5,Lombardia,12021,-,-,0.92,0.9,0.94,f,bassa,alta,1,moderata,f
-51,2021/4/26,2021/5/2,2021/5/5,Marche,1426,-,-,0.94,0.85,1.05,f,bassa,alta,1,moderata,f
-51,2021/4/26,2021/5/2,2021/5/5,Molise,191,-,+,1.25,0.82,1.77,f,moderata,bassa,1,moderata,f
-51,2021/4/26,2021/5/2,2021/5/5,Piemonte,5829,-,-,0.84,0.8,0.87,f,bassa,bassa,1,bassa,f
-51,2021/4/26,2021/5/2,2021/5/5,P.A. Bolzano,325,-,-,1.07,0.96,1.18,f,bassa,bassa,1,bassa,f
-51,2021/4/26,2021/5/2,2021/5/5,P.A. Trento,492,-,-,0.97,0.86,1.07,f,bassa,bassa,1,bassa,f
-51,2021/4/26,2021/5/2,2021/5/5,Puglia,6576,-,-,0.91,0.88,0.94,f,bassa,moderata,1,moderata,f
-51,2021/4/26,2021/5/2,2021/5/5,Sardegna,1072,-,-,0.74,0.69,0.79,f,bassa,bassa,1,bassa,f
-51,2021/4/26,2021/5/2,2021/5/5,Sicilia,5973,-,-,0.89,0.85,0.92,f,bassa,bassa,1,bassa,f
-51,2021/4/26,2021/5/2,2021/5/5,Toscana,5333,-,-,0.88,0.85,0.91,f,bassa,alta,1,moderata,f
-51,2021/4/26,2021/5/2,2021/5/5,Umbria,686,-,-,0.93,0.86,1.02,f,bassa,bassa,1,bassa,f
-51,2021/4/26,2021/5/2,2021/5/5,Valle d'Aosta,289,-,-,0.93,0.82,1.04,f,bassa,bassa,1,bassa,f
-51,2021/4/26,2021/5/2,2021/5/5,Veneto,5066,-,-,0.95,0.92,0.98,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Abruzzo,668,-,-,0.89,0.82,0.96,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Basilicata,623,-,-,0.83,0.67,1.03,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Calabria,1319,-,+,0.74,0.67,0.82,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Campania,6375,-,-,0.7,0.68,0.72,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Emilia-Romagna,2972,-,-,0.78,0.75,0.81,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Friulia Venezia Giulia,353,-,-,0.66,0.59,0.72,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Lazio,4191,-,-,0.82,0.79,0.84,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Liguria,750,-,-,0.7,0.64,0.75,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Lombardia,7240,-,-,0.79,0.77,0.8,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Marche,1187,-,-,0.81,0.71,0.91,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Molise,81,-,+,0.69,0.3,1.14,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Piemonte,3605,-,-,0.79,0.76,0.84,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,P.A. Bolzano,333,-,-,0.91,0.81,1.02,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,P.A. Trento,352,-,=,0.89,0.78,1,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Puglia,3082,-,-,0.75,0.73,0.78,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Sardegna,426,-,-,0.61,0.55,0.67,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Sicilia,3536,-,-,0.78,0.75,0.81,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Toscana,3280,-,-,0.86,0.83,0.89,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Umbria,521,-,-,0.96,0.88,1.05,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Valle d'Aosta,150,-,-,0.74,0.64,0.86,f,bassa,bassa,1,bassa,f
+53,2021/5/10,2021/5/16,2021/5/19,Veneto,2463,-,-,0.74,0.72,0.77,f,bassa,bassa,1,bassa,f
