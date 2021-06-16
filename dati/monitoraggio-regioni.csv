@@ -1,4 +1,4 @@
-,numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali,trend_casi,trend_focolai,rt_puntuale,rt_range_inizio,rt_range_fine,trasmissione_non_gestibile,valutazione_probabilità,valutazione_impatto,compatibilità_rt,classificazione_rischio,classificazione_alta_tre_settimane
+numero_report,inizio_range,fine_range,data_report,regione,nuovi_casi_settimanali,trend_casi,trend_focolai,rt_puntuale,rt_range_inizio,rt_range_fine,trasmissione_non_gestibile,valutazione_probabilità,valutazione_impatto,compatibilità_rt,classificazione_rischio,classificazione_alta_tre_settimane
 0,2020/5/4,2020/5/10,2020/5/16,Abruzzo,,-,,0.45,0.26,0.71,,bassa,livello 2,,,
 0,2020/5/4,2020/5/10,2020/5/16,Basilicata,,-,,0.27,0.05,0.47,,bassa,livello 2,,,
 0,2020/5/4,2020/5/10,2020/5/16,Calabria,,-,,0.34,0.14,0.65,,bassa,livello 2,,,
